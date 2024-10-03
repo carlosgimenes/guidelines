@@ -9,7 +9,7 @@ Este repositório contém as diretrizes e boas práticas para meus projetos no G
 - Padrões de Codificação
 - Diretrizes de Contribuição
 
-# Estrutura do Repositório
+## Estrutura do Repositório
 ```
 guidelines/
 ├── LICENSE.md
